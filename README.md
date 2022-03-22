@@ -1,1 +1,3 @@
-PROJECT SPA GULP
+Página Web em SPA.
+
+SSAS, Ajax, Gulp.
